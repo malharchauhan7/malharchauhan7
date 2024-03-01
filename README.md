@@ -10,9 +10,11 @@
 
 - 💬 Ask me about **JAVASCRIPT**
 
+- - 👨‍💻 Hobbies **Graphics Design**
+
 - 📫 How to reach me **malharchauhan02@gmail.com**
 
-- ⚡ Fun fact **Chai Lover**
+- ☕**Chai Lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
