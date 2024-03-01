@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JAVASCRIPT**
 
-- - 👨‍💻 Hobbies **Graphics Design**
+- 👨‍💻 Hobbies **Graphics Design**
 
 - 📫 How to reach me **malharchauhan02@gmail.com**
 
