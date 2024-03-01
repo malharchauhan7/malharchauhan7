@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/malhar_7" target="blank"><img src="https://img.shields.io/twitter/follow/malhar_7?logo=twitter&style=for-the-badge" alt="malhar_7" /></a> </p>
 
-- 🌱 I’m currently learning **React, MERN**
+🌱 I’m currently learning **React, MERN**
 
-- 💬 Ask me about **JAVASCRIPT**
+💬 Ask me about **JAVASCRIPT**
 
-- 📫 How to reach me **malharchauhan02@gmail.com**
+📫 How to reach me **malharchauhan02@gmail.com**
 
-- ⚡ Fun fact **Chai Lover**
+⚡ Fun fact **Chai Lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
