@@ -1,20 +1,9 @@
 <h1 align="center">Hi 👋, I'm Malhar Chauhan</h1>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malhar7777&label=Profile%20views&color=0e75b6&style=flat" alt="malhar7777" /> </p>
 
 <p align="left"> <a href="https://twitter.com/malhar_7" target="blank"><img src="https://img.shields.io/twitter/follow/malhar_7?logo=twitter&style=for-the-badge" alt="malhar_7" /></a> </p>
 
-- 🌱 I’m currently learning **React, MERN**
-
-- 💬 Ask me about **JAVASCRIPT**
-
-- 👨‍💻 Passionate about **Graphics and UI design**
-
-- 📫 How to reach me **malharchauhan02@gmail.com**
-
-- ☕ **Chai Lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
