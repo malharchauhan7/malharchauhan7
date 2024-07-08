@@ -9,6 +9,6 @@
 </p>
 
 # Projects
-<a target="_blank" href="https://dulcet-gumption-c97ca7.netlify.app/" >ETHETRADE</a> 
-<br></br>
 <a href="https://job-nodes.vercel.app/" target="blank"> JOBNODES </a>
+<br></br>
+<a target="_blank" href="https://dulcet-gumption-c97ca7.netlify.app/" >ETHETRADE</a> 
