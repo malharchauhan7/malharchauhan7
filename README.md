@@ -9,7 +9,8 @@
 </p>
 
 # Projects
-<a href="https://job-nodes.vercel.app/" target="blank">![logo](https://github.com/malharchauhan7/malharchauhan7/assets/72789303/feeee47e-73ff-4dfe-ac87-6d2746a0ae88)
+<a href="https://job-nodes.vercel.app/" target="blank"> ![logo](https://github.com/malharchauhan7/malharchauhan7/assets/72789303/4bdeea35-d5f0-4a69-b376-169571f34517)
+
  JOBNODES </a>
 <br></br>
 <a target="_blank" href="https://dulcet-gumption-c97ca7.netlify.app/" >ETHETRADE</a> 
