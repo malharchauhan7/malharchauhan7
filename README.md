@@ -12,5 +12,6 @@
 <a href="https://job-nodes.vercel.app/" target="blank">![logo](https://github.com/malharchauhan7/malharchauhan7/assets/72789303/243a3604-8643-4268-b79e-6d7b62b53921) </a>
 
 <br></br>
-<a target="_blank" href="https://dulcet-gumption-c97ca7.netlify.app/" >![Uploading logo.png…]()
+<a target="_blank" href="https://dulcet-gumption-c97ca7.netlify.app/" >![logo](https://github.com/malharchauhan7/malharchauhan7/assets/72789303/311c20cc-57b6-4c2f-813a-9520186c4220) 
 </a> 
+
