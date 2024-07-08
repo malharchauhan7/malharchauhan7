@@ -8,3 +8,6 @@
 <a href="https://twitter.com/malhar_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malhar_7" height="30" width="40" /></a>
 </p>
 
+# Projects
+<a target="_blank" href="https://dulcet-gumption-c97ca7.netlify.app/" >ETHETRADE</a> 
+<a href="https://job-nodes.vercel.app/" target="blank"> JOBNODES </a>
