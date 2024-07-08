@@ -14,5 +14,5 @@
 
 <br></br>
 <a target="_blank" href="https://dulcet-gumption-c97ca7.netlify.app/" >
-![ETHETRADE](https://github.com/malharchauhan7/malharchauhan7/assets/72789303/7100db92-c0b0-4000-9979-fb7ba4d293f8)
+![ETHETRADE](https://github.com/malharchauhan7/malharchauhan7/assets/72789303/f555b9be-25a8-4c4f-932a-e35593d89478)
 </a>
