@@ -10,8 +10,7 @@
 
 # Projects
 
-<a href="https://malharportfolio.vercel.app/" target="blank"> PORTFOLIO
- </a>
+
 
 <a href="https://file-converter-xi.vercel.app/" target="blank"> FILE CONVERTER
  </a>
