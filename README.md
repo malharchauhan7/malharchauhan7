@@ -9,13 +9,13 @@
 </p>
 
 <a
-            href="https://www.producthunt.com/posts/betterprompt-2?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-betterprompt&#0045;2"
-            target="_blank"
-          >
-            <img
-              src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=966449&theme=light&t=1747815116848"
-              alt="BetterPrompt&#0032; - Smarter&#0032;prompts&#0046;&#0032;Better&#0032;results&#0046; | Product Hunt"
-              width="180"
-              height="45"
-            />
-          </a>
+              href="https://www.producthunt.com/products/better-prompt?utm_source=badge-follow&utm_medium=badge&utm_source=badge-better&#0045;prompt"
+              target="_blank"
+            >
+              <img
+                src="https://api.producthunt.com/widgets/embed-image/v1/follow.svg?product_id=1065968&theme=dark&size=small"
+                alt="Better&#0032;Prompt&#0032; - Smarter&#0032;prompts&#0046;&#0032;Better&#0032;results&#0046; | Product Hunt"
+                width="70"
+                height="28"
+              />
+            </a>
