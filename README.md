@@ -14,11 +14,7 @@
       style="margin-right: 10px;"
     />
   </a>
-  </p>
-
-### Latest Projects:
-<p align="left">
-  <a href="https://www.producthunt.com/products/better-prompt?utm_source=badge-follow&utm_medium=badge&utm_source=badge-better-prompt" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.producthunt.com/products/better-prompt?utm_source=badge-follow&utm_medium=badge&utm_source=badge-better-prompt" target="_blank" rel="noopener noreferrer">
     <img
       src="https://api.producthunt.com/widgets/embed-image/v1/follow.svg?product_id=1065968&theme=dark&size=small"
       alt="Follow Better Prompt on Product Hunt"
@@ -26,6 +22,11 @@
       height="28"
     />
   </a>
+  </p>
+
+### Latest Projects:
+<p align="left">
+
 
   <a href="https://www.resourcegallery.xyz">
   <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/logo-main.png?updatedAt=1747568918081"
