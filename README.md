@@ -23,4 +23,11 @@
       height="28"
     />
   </a>
+
+  <a href="https://www.resourcegallery.xyz">
+  <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/logo-main.png?updatedAt=1747568918081"
+      alt="ResourceGallery"
+    width="40"
+    height="40"
+</a>
 </p>
