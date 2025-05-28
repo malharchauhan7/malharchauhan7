@@ -14,7 +14,10 @@
       style="margin-right: 10px;"
     />
   </a>
+  </p>
 
+### Latest Projects:
+<p align="left">
   <a href="https://www.producthunt.com/products/better-prompt?utm_source=badge-follow&utm_medium=badge&utm_source=badge-better-prompt" target="_blank" rel="noopener noreferrer">
     <img
       src="https://api.producthunt.com/widgets/embed-image/v1/follow.svg?product_id=1065968&theme=dark&size=small"
