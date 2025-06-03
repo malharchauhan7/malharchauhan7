@@ -34,4 +34,11 @@
     width="40"
     height="40"
 </a>
+<a href="https://betterprompt-gen.vercel.app/">
+  <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/ChatGPT%20Image%20May%2016,%202025,%2010_52_32%20PM.png?updatedAt=1747417372289"
+      alt="BetterPrompt"
+    width="40"
+    height="40"
+</a>
+    
 </p>
