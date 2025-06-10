@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-[(https://github-readme-badge.peerlist.io/api/mrpurrfect?style=social)](https://peerlist.io/mrpurrfect)
+[![Peerlist](https://github-readme-badge.peerlist.io/api/mrpurrfect?style=social)](https://peerlist.io/mrpurrfect)
 
 <p align="left">
   <a href="https://twitter.com/malhar_7" target="_blank" rel="noopener noreferrer">
