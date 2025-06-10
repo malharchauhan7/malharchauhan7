@@ -5,12 +5,6 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="https://peerlist.io/mrpurrfect" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://github-readme-badge.peerlist.io/api/mrpurrfect?style=social"
-      style="margin-right: 10px;"
-    />
-  </a>
   <a href="https://twitter.com/malhar_7" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
