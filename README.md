@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malhar7777&label=Profile%20views&color=0e75b6&style=flat" alt="malhar7777" /> </p>
 
 ### Connect with me:
-
+[![Peerlist](https://github-readme-badge.peerlist.io/api/mrpurrfect)](https://peerlist.io/mrpurrfect)
 <p align="left">
   <a href="https://twitter.com/malhar_7" target="_blank" rel="noopener noreferrer">
     <img
