@@ -32,14 +32,37 @@
   <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2032.png?updatedAt=1750081448742"
       alt="ResourceGallery"
     width="150px"
-
-</a>
-    <a href="https://www.devbrief.xyz/">
+  </a>
+&nbsp;
+  <a href="https://malharchauhan7.github.io/the-only-cheatsheets/">
+  <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2034.png?updatedAt=1750081448692"
+      alt="The Only Cheatsheets"
+    width="150px"
+  </a>
+&nbsp;
+    
+<a href="https://www.devbrief.xyz/">
   <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2031-1.png?updatedAt=1750081448730"
       alt="devbrief"
       width="150px"
 
 </a>
+&nbsp;
+  <a href="https://truthmode-ai.lovable.app/">
+  <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2037.png?updatedAt=1750081448722"
+      alt="TruthMode AI- Brutally Honest AI"
+    width="150px"
+  </a>
+
+&nbsp;
+
+  <a href="https://console-gpt.vercel.app/">
+  <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2036.png?updatedAt=1750081448600"
+      alt="ConsoleGPT"
+    width="150px"
+  </a>
+
+&nbsp;
     
 <a href="https://betterprompt-gen.vercel.app/">
   <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2031.png?updatedAt=1750081448644"
