@@ -14,8 +14,6 @@
     <img
       src="https://img.shields.io/badge/Product%20Hunt-DA552F.svg?style=for-the-badge&logo=Product-Hunt&logoColor=white"
       alt="Follow on producthunt"
-      width="70"
-      height="28"
     />
   </a>
   </p>
