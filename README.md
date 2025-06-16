@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=malhar7777&label=Profile%20views&color=0e75b6&style=flat" alt="malhar7777" />
 </p>
 
----
+
 
 ### 🌐 Connect with me
 
@@ -24,7 +24,7 @@
   </a>
 </p>
 
----
+
 
 ### 🚀 Latest Projects
 
