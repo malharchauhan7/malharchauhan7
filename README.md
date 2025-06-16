@@ -29,16 +29,23 @@
 
 
   <a href="https://www.resourcegallery.xyz">
-  <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/logo-main.png?updatedAt=1747568918081"
+  <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2032.png?updatedAt=1750081448742"
       alt="ResourceGallery"
-    width="40"
-    height="40"
+    width="50"
+
 </a>
+    <a href="https://www.devbrief.xyz/">
+  <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2031-1.png?updatedAt=1750081448730"
+      alt="devbrief"
+    width="50"
+
+</a>
+    
 <a href="https://betterprompt-gen.vercel.app/">
-  <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/ChatGPT%20Image%20May%2016,%202025,%2010_52_32%20PM.png?updatedAt=1747417372289"
+  <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2031.png?updatedAt=1750081448644"
       alt="BetterPrompt"
-    width="40"
-    height="40"
+    width="50"
+
 </a>
     
 </p>
