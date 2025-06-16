@@ -31,20 +31,20 @@
   <a href="https://www.resourcegallery.xyz">
   <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2032.png?updatedAt=1750081448742"
       alt="ResourceGallery"
-    width="100px"
+    width="150px"
 
 </a>
     <a href="https://www.devbrief.xyz/">
   <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2031-1.png?updatedAt=1750081448730"
       alt="devbrief"
-      width="100px"
+      width="150px"
 
 </a>
     
 <a href="https://betterprompt-gen.vercel.app/">
   <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2031.png?updatedAt=1750081448644"
       alt="BetterPrompt"
-    width="100px"
+    width="150px"
 
 </a>
     
