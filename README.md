@@ -62,7 +62,6 @@
     width="150px"
   </a>
 
-&nbsp;
     
 <a href="https://betterprompt-gen.vercel.app/">
   <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2031.png?updatedAt=1750081448644"
