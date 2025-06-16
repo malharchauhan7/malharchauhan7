@@ -5,19 +5,15 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="https://twitter.com/malhar_7" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/MrPurrrfect" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Twitter: malhar_7"
-      width="40"
-      height="30"
-      style="margin-right: 10px;"
-    />
+      src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white"
+      alt="Twitter: malhar_7"/>
   </a>
-    <a href="https://www.producthunt.com/products/better-prompt?utm_source=badge-follow&utm_medium=badge&utm_source=badge-better-prompt" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.producthunt.com/@mrpurrfect" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://api.producthunt.com/widgets/embed-image/v1/follow.svg?product_id=1065968&theme=dark&size=small"
-      alt="Follow Better Prompt on Product Hunt"
+      src="https://img.shields.io/badge/Product%20Hunt-DA552F.svg?style=for-the-badge&logo=Product-Hunt&logoColor=white"
+      alt="Follow on producthunt"
       width="70"
       height="28"
     />
