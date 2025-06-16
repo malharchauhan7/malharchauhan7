@@ -22,6 +22,12 @@
       alt="LinkedIn"
     />
   </a>
+        <a href="https://peerlist.io/mrpurrfect" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Peerlist-00AA45.svg?style=for-the-badge&logo=Peerlist&logoColor=white"
+      alt="PeerList"
+    />
+  </a>
   </p>
 
 ### Latest Projects:
