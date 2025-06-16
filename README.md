@@ -8,12 +8,18 @@
   <a href="https://x.com/MrPurrrfect" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white"
-      alt="Twitter: malhar_7"/>
+      alt="X"/>
   </a>
     <a href="https://www.producthunt.com/@mrpurrfect" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/badge/Product%20Hunt-DA552F.svg?style=for-the-badge&logo=Product-Hunt&logoColor=white"
-      alt="Follow on producthunt"
+      alt="Producthunt"
+    />
+  </a>
+      <a href="https://www.linkedin.com/in/malhar-chauhan-539100238/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
     />
   </a>
   </p>
