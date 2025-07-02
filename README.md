@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Malhar Chauhan</h1>
-<p align="center">Just a dev who runs on chai, code, and 5-hour naps. Building things like <a href="https://devbrief.xyz" target="_blank">DevBrief</a> and a growing <a href="https://www.resourcegallery.xyz" target="_blank">Resource Gallery</a>.</p>
+<p align="center">Just a dev who runs on chai, code, and 5-hour naps. Building things like <a href="https://www.resourcegallery.xyz" target="_blank">Resource Gallery</a> and a growing <a href="https://www.devone.space/" target="_blank">devone.space</a>.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=malhar7777&label=Profile%20views&color=0e75b6&style=flat" alt="malhar7777" />
