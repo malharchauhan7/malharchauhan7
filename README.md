@@ -33,12 +33,12 @@
     <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/github%20badge.png?updatedAt=1750679158795" alt="devone.space" width="150px">
   </a>
   &nbsp;
-  <a href="https://www.resourcegallery.xyz" target="_blank">
-    <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2032.png?updatedAt=1750081448742" alt="ResourceGallery" width="150px">
+    <a href="https://malharchauhan7.github.io/the-only-cheatsheets/" target="_blank">
+    <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2034.png?updatedAt=1750081448692" alt="The Only Cheatsheets" width="150px">
   </a>
   &nbsp;
-  <a href="https://malharchauhan7.github.io/the-only-cheatsheets/" target="_blank">
-    <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2034.png?updatedAt=1750081448692" alt="The Only Cheatsheets" width="150px">
+  <a href="https://www.resourcegallery.xyz" target="_blank">
+    <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2032.png?updatedAt=1750081448742" alt="ResourceGallery" width="150px">
   </a>
   &nbsp;
   <a href="https://www.devbrief.xyz/" target="_blank">
