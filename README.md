@@ -34,7 +34,7 @@
   </a>
   &nbsp;
     <a href="https://malharchauhan7.github.io/the-only-cheatsheets/" target="_blank">
-    <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2034.png?updatedAt=1750081448692" alt="The Only Cheatsheets" width="150px">
+    <img src="https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2054.png?updatedAt=1751554100332" alt="The Only Cheatsheets" width="150px">
   </a>
   &nbsp;
   <a href="https://www.resourcegallery.xyz" target="_blank">
